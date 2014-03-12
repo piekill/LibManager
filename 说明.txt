@@ -1,0 +1,13 @@
+jsp和html页面源代码：LibManager\web
+
+java类源代码：LibManager\src\java\library
+
+可部署的war文件：LibManager\dist
+
+数据库资源信息：lib
+
+创建数据库的SQL语句：lib.sql
+
+该系统的默认登录名为admin，密码admin
+
+数据库的登录名为root，密码123
